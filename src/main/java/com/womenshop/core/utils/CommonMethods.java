@@ -62,4 +62,5 @@ public class CommonMethods {
         webElement.clear();
         webElement.sendKeys(text);
     }
+
 }
